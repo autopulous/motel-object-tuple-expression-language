@@ -1,5 +1,7 @@
 # motel-object-tuple-expression-language
-MOTEL - an ANSII C implementation of the simple and flexible data/code Model-Object Tuple-Expression Language defined by John Leonard Hart IV
+## MOTEL
+
+An ANSII C implementation of the simple and flexible data/code the Model-Object Tuple-Expression Language (MOTEL) defined by John Leonard Hart IV
 
 # Derivation Notice
 
