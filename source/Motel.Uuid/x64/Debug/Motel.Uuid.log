@@ -1,0 +1,16 @@
+﻿Build started 8/11/2015 4:28:04 PM.
+     1>Project "C:\Users\jhart\Documents\Personal\inkeeper\source\Motel.Uuid\Motel.Uuid.vcxproj" on node 5 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /D _WINDLL /D _WINDLL /D _MBCS /D _CRT_SECURE_NO_WARNINGS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"x64\Debug\\" /Fd"x64\Debug\vc140.pdb" /Gd /TC /errorReport:prompt motel.uuid.c
+         motel.uuid.c
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"x64\Debug\Motel.Uuid.dll" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"x64\Debug\Motel.Uuid.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"x64\Debug\Motel.Uuid.lib" /MACHINE:X64 /DLL x64\Debug\motel.uuid.obj
+         C:\Users\jhart\Documents\Personal\inkeeper\source\Motel.Memory\x64\Debug\Motel.Memory.lib
+         C:\Users\jhart\Documents\Personal\inkeeper\source\Motel.Socket\x64\Debug\Motel.Socket.lib
+            Creating library x64\Debug\Motel.Uuid.lib and object x64\Debug\Motel.Uuid.exp
+         Motel.Uuid.vcxproj -> C:\Users\jhart\Documents\Personal\inkeeper\source\Motel.Uuid\x64\Debug\Motel.Uuid.dll
+     1>Done Building Project "C:\Users\jhart\Documents\Personal\inkeeper\source\Motel.Uuid\Motel.Uuid.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.02
